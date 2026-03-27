@@ -24,5 +24,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1544-make-the-string-great](https://github.com/jp7107/leetcode-solving/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jp7107/leetcode-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/jp7107/leetcode-solving/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
