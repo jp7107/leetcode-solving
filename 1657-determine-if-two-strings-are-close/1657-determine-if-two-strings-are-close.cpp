@@ -1,33 +1,29 @@
+
 class Solution {
 public:
-    bool closeStrings(std::string word1, std::string word2) {
-        std::vector<int> freq1(26, 0);
-        std::vector<int> freq2(26, 0);
+    bool closeStrings(string word1, string word2) {
+        // Step 1: length check
+        if (word1.size() != word2.size()) return false;
 
-        for (char ch : word1) {
-            freq1[ch - 'a']++;
-        }
+        vector<int> f1(26, 0), f2(26, 0);
 
-        for (char ch : word2) {
-            freq2[ch - 'a']++;
-        }
+        // Step 2: count frequency
+        for (char c : word1) f1[c - 'a']++;
+        for (char c : word2) f2[c - 'a']++;
 
+        // Step 3: check same character set
         for (int i = 0; i < 26; i++) {
-            if ((freq1[i] == 0 && freq2[i] != 0) || (freq1[i] != 0 && freq2[i] == 0)) {
+            if ((f1[i] == 0 && f2[i] != 0) || 
+                (f1[i] != 0 && f2[i] == 0)) {
                 return false;
             }
         }
 
-        std::sort(freq1.begin(), freq1.end());
-        std::sort(freq2.begin(), freq2.end());
+        // Step 4: compare frequency distributions
+        sort(f1.begin(), f1.end());
+        sort(f2.begin(), f2.end());
 
-        for (int i = 0; i < 26; i++) {
-            if (freq1[i] != freq2[i]) {
-                return false;
-            }
-        }
-
-        return true;
+        return f1 == f2;
     }
 };
 
