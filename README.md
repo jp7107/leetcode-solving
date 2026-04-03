@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/jp7107/leetcode-solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/jp7107/leetcode-solving/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jp7107/leetcode-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jp7107/leetcode-solving/tree/master/2187-minimum-time-to-complete-trips) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/jp7107/leetcode-solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [1544-make-the-string-great](https://github.com/jp7107/leetcode-solving/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jp7107/leetcode-solving/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jp7107/leetcode-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
