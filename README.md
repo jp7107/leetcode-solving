@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
 | [0908-smallest-range-i](https://github.com/jp7107/leetcode-solving/tree/master/0908-smallest-range-i) |
+| [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jp7107/leetcode-solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/jp7107/leetcode-solving/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jp7107/leetcode-solving/tree/master/0217-contains-duplicate) |
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/jp7107/leetcode-solving/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jp7107/leetcode-solving/tree/master/1657-determine-if-two-strings-are-close) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jp7107/leetcode-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -125,4 +128,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/jp7107/leetcode-solving/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jp7107/leetcode-solving/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
