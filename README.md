@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jp7107/leetcode-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/jp7107/leetcode-solving/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/jp7107/leetcode-solving/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/jp7107/leetcode-solving/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
 | [0796-rotate-string](https://github.com/jp7107/leetcode-solving/tree/master/0796-rotate-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jp7107/leetcode-solving/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/jp7107/leetcode-solving/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/jp7107/leetcode-solving/tree/master/0396-rotate-function) |
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/jp7107/leetcode-solving/tree/master/0509-fibonacci-number) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/jp7107/leetcode-solving/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
