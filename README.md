@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/jp7107/leetcode-solving/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
 | [0796-rotate-string](https://github.com/jp7107/leetcode-solving/tree/master/0796-rotate-string) |
+| [0880-decoded-string-at-index](https://github.com/jp7107/leetcode-solving/tree/master/0880-decoded-string-at-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jp7107/leetcode-solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [1544-make-the-string-great](https://github.com/jp7107/leetcode-solving/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jp7107/leetcode-solving/tree/master/1657-determine-if-two-strings-are-close) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0880-decoded-string-at-index](https://github.com/jp7107/leetcode-solving/tree/master/0880-decoded-string-at-index) |
 | [1544-make-the-string-great](https://github.com/jp7107/leetcode-solving/tree/master/1544-make-the-string-great) |
 ## Counting
 |  |
