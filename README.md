@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jp7107/leetcode-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jp7107/leetcode-solving/tree/master/2187-minimum-time-to-complete-trips) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jp7107/leetcode-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3660-jump-game-ix](https://github.com/jp7107/leetcode-solving/tree/master/3660-jump-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
 | [0509-fibonacci-number](https://github.com/jp7107/leetcode-solving/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/jp7107/leetcode-solving/tree/master/0788-rotated-digits) |
+| [3660-jump-game-ix](https://github.com/jp7107/leetcode-solving/tree/master/3660-jump-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
