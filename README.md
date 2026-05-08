@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/jp7107/leetcode-solving/tree/master/0061-rotate-list) |
 | [0392-is-subsequence](https://github.com/jp7107/leetcode-solving/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jp7107/leetcode-solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/jp7107/leetcode-solving/tree/master/0389-find-the-difference) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/jp7107/leetcode-solving/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
