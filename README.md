@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jp7107/leetcode-solving/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/jp7107/leetcode-solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/jp7107/leetcode-solving/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/jp7107/leetcode-solving/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/jp7107/leetcode-solving/tree/master/0509-fibonacci-number) |
