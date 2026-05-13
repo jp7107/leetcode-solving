@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jp7107/leetcode-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jp7107/leetcode-solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jp7107/leetcode-solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1861-rotating-the-box](https://github.com/jp7107/leetcode-solving/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/1914-cyclically-rotating-a-grid) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jp7107/leetcode-solving/tree/master/2187-minimum-time-to-complete-trips) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/jp7107/leetcode-solving/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jp7107/leetcode-solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jp7107/leetcode-solving/tree/master/2187-minimum-time-to-complete-trips) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jp7107/leetcode-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Sorting
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jp7107/leetcode-solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jp7107/leetcode-solving/tree/master/1657-determine-if-two-strings-are-close) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jp7107/leetcode-solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jp7107/leetcode-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Interactive
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jp7107/leetcode-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/jp7107/leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -224,8 +228,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jp7107/leetcode-solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jp7107/leetcode-solving/tree/master/0055-jump-game) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jp7107/leetcode-solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jp7107/leetcode-solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
