@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jp7107/leetcode-solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/jp7107/leetcode-solving/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/jp7107/leetcode-solving/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/jp7107/leetcode-solving/tree/master/0880-decoded-string-at-index) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/jp7107/leetcode-solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jp7107/leetcode-solving/tree/master/0944-delete-columns-to-make-sorted) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/jp7107/leetcode-solving/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/jp7107/leetcode-solving/tree/master/0880-decoded-string-at-index) |
 | [1544-make-the-string-great](https://github.com/jp7107/leetcode-solving/tree/master/1544-make-the-string-great) |
 ## Counting
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/jp7107/leetcode-solving/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jp7107/leetcode-solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/jp7107/leetcode-solving/tree/master/0844-backspace-string-compare) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jp7107/leetcode-solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1861-rotating-the-box](https://github.com/jp7107/leetcode-solving/tree/master/1861-rotating-the-box) |
 ## Sliding Window
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/jp7107/leetcode-solving/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/jp7107/leetcode-solving/tree/master/0844-backspace-string-compare) |
 | [1914-cyclically-rotating-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jp7107/leetcode-solving/tree/master/2553-separate-the-digits-in-an-array) |
 ## Number Theory
