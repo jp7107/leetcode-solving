@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jp7107/leetcode-solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jp7107/leetcode-solving/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jp7107/leetcode-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/jp7107/leetcode-solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jp7107/leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0396-rotate-function](https://github.com/jp7107/leetcode-solving/tree/master/0396-rotate-function) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jp7107/leetcode-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/jp7107/leetcode-solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/jp7107/leetcode-solving/tree/master/1300-sum-of-mutated-array-closest-to-target) |
