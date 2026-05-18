@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/jp7107/leetcode-solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/jp7107/leetcode-solving/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1306-jump-game-iii](https://github.com/jp7107/leetcode-solving/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/jp7107/leetcode-solving/tree/master/1345-jump-game-iv) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jp7107/leetcode-solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jp7107/leetcode-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jp7107/leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/jp7107/leetcode-solving/tree/master/0389-find-the-difference) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/jp7107/leetcode-solving/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1345-jump-game-iv](https://github.com/jp7107/leetcode-solving/tree/master/1345-jump-game-iv) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jp7107/leetcode-solving/tree/master/1657-determine-if-two-strings-are-close) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jp7107/leetcode-solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/jp7107/leetcode-solving/tree/master/2784-check-if-array-is-good) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/jp7107/leetcode-solving/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/jp7107/leetcode-solving/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jp7107/leetcode-solving/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
