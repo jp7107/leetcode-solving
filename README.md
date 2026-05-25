@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/jp7107/leetcode-solving/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jp7107/leetcode-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/jp7107/leetcode-solving/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1871-jump-game-vii](https://github.com/jp7107/leetcode-solving/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jp7107/leetcode-solving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/jp7107/leetcode-solving/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/jp7107/leetcode-solving/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/jp7107/leetcode-solving/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/jp7107/leetcode-solving/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jp7107/leetcode-solving/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/jp7107/leetcode-solving/tree/master/3660-jump-game-ix) |
 ## Depth-First Search
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jp7107/leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1871-jump-game-vii](https://github.com/jp7107/leetcode-solving/tree/master/1871-jump-game-vii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -271,4 +274,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jp7107/leetcode-solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1871-jump-game-vii](https://github.com/jp7107/leetcode-solving/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
