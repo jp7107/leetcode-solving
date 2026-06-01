@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/jp7107/leetcode-solving/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/1914-cyclically-rotating-a-grid) |
 | [2126-destroying-asteroids](https://github.com/jp7107/leetcode-solving/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jp7107/leetcode-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jp7107/leetcode-solving/tree/master/2187-minimum-time-to-complete-trips) |
 | [2540-minimum-common-value](https://github.com/jp7107/leetcode-solving/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jp7107/leetcode-solving/tree/master/2553-separate-the-digits-in-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jp7107/leetcode-solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/jp7107/leetcode-solving/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jp7107/leetcode-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/jp7107/leetcode-solving/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jp7107/leetcode-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Interactive
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jp7107/leetcode-solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/jp7107/leetcode-solving/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jp7107/leetcode-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Prefix Sum
 |  |
 | ------- |
