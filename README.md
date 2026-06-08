@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/jp7107/leetcode-solving/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jp7107/leetcode-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jp7107/leetcode-solving/tree/master/2187-minimum-time-to-complete-trips) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/jp7107/leetcode-solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2540-minimum-common-value](https://github.com/jp7107/leetcode-solving/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jp7107/leetcode-solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jp7107/leetcode-solving/tree/master/2574-left-and-right-sum-differences) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/jp7107/leetcode-solving/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jp7107/leetcode-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/jp7107/leetcode-solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2784-check-if-array-is-good](https://github.com/jp7107/leetcode-solving/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jp7107/leetcode-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jp7107/leetcode-solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/jp7107/leetcode-solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jp7107/leetcode-solving/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/jp7107/leetcode-solving/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/jp7107/leetcode-solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/jp7107/leetcode-solving/tree/master/1345-jump-game-iv) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jp7107/leetcode-solving/tree/master/1657-determine-if-two-strings-are-close) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jp7107/leetcode-solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/jp7107/leetcode-solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2540-minimum-common-value](https://github.com/jp7107/leetcode-solving/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jp7107/leetcode-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/jp7107/leetcode-solving/tree/master/2784-check-if-array-is-good) |
