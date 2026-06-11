@@ -1,34 +1,38 @@
 class Solution {
 public:
     bool wordPattern(string pattern, string s) {
-
         vector<string> words;
         stringstream ss(s);
-        string word;
+        string token;
 
-        while (ss >> word) {
-            words.push_back(word);
+        while (ss >> token) {
+            words.push_back(token);
         }
 
-        if (pattern.size() != words.size())
+        if (pattern.length() != words.size())
             return false;
 
-        unordered_map<char, string> mp1;
-        unordered_map<string, char> mp2;
+        unordered_map<string, char> mp;
+        unordered_set<char> used;
 
-        for (int i = 0; i < pattern.size(); i++) {
-
+        for (int i = 0; i < pattern.length(); i++) {
+            string word = words[i];
             char ch = pattern[i];
-            string w = words[i];
 
-            if (mp1.count(ch) && mp1[ch] != w)
-                return false;
+            if (mp.find(word) == mp.end()) {
 
-            if (mp2.count(w) && mp2[w] != ch)
-                return false;
+                // character already mapped to another word
+                if (used.count(ch))
+                    return false;
 
-            mp1[ch] = w;
-            mp2[w] = ch;
+                mp[word] = ch;
+                used.insert(ch);
+            }
+            else {
+                // existing mapping must match
+                if (mp[word] != ch)
+                    return false;
+            }
         }
 
         return true;
