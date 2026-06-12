@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/jp7107/leetcode-solving/tree/master/1657-determine-if-two-strings-are-close) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jp7107/leetcode-solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/jp7107/leetcode-solving/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2336-smallest-number-in-infinite-set](https://github.com/jp7107/leetcode-solving/tree/master/2336-smallest-number-in-infinite-set) |
 | [2540-minimum-common-value](https://github.com/jp7107/leetcode-solving/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jp7107/leetcode-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/jp7107/leetcode-solving/tree/master/2784-check-if-array-is-good) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/jp7107/leetcode-solving/tree/master/2336-smallest-number-in-infinite-set) |
 ## String Matching
 |  |
 | ------- |
@@ -315,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/jp7107/leetcode-solving/tree/master/3161-block-placement-queries) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/jp7107/leetcode-solving/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/jp7107/leetcode-solving/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
