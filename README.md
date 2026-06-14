@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/jp7107/leetcode-solving/tree/master/0396-rotate-function) |
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
+| [0705-design-hashset](https://github.com/jp7107/leetcode-solving/tree/master/0705-design-hashset) |
 | [0908-smallest-range-i](https://github.com/jp7107/leetcode-solving/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jp7107/leetcode-solving/tree/master/0944-delete-columns-to-make-sorted) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jp7107/leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/jp7107/leetcode-solving/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/jp7107/leetcode-solving/tree/master/0389-find-the-difference) |
+| [0705-design-hashset](https://github.com/jp7107/leetcode-solving/tree/master/0705-design-hashset) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/jp7107/leetcode-solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1207-unique-number-of-occurrences](https://github.com/jp7107/leetcode-solving/tree/master/1207-unique-number-of-occurrences) |
 | [1345-jump-game-iv](https://github.com/jp7107/leetcode-solving/tree/master/1345-jump-game-iv) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/jp7107/leetcode-solving/tree/master/0061-rotate-list) |
+| [0705-design-hashset](https://github.com/jp7107/leetcode-solving/tree/master/0705-design-hashset) |
 ## Greedy
 |  |
 | ------- |
@@ -324,9 +327,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/jp7107/leetcode-solving/tree/master/0705-design-hashset) |
 | [2336-smallest-number-in-infinite-set](https://github.com/jp7107/leetcode-solving/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/jp7107/leetcode-solving/tree/master/2336-smallest-number-in-infinite-set) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/jp7107/leetcode-solving/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
