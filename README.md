@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jp7107/leetcode-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/jp7107/leetcode-solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jp7107/leetcode-solving/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/jp7107/leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/jp7107/leetcode-solving/tree/master/0396-rotate-function) |
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jp7107/leetcode-solving/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/jp7107/leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/jp7107/leetcode-solving/tree/master/0389-find-the-difference) |
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jp7107/leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/jp7107/leetcode-solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/jp7107/leetcode-solving/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jp7107/leetcode-solving/tree/master/1657-determine-if-two-strings-are-close) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jp7107/leetcode-solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jp7107/leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/jp7107/leetcode-solving/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/jp7107/leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/jp7107/leetcode-solving/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/jp7107/leetcode-solving/tree/master/0705-design-hashset) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/jp7107/leetcode-solving/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jp7107/leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/jp7107/leetcode-solving/tree/master/2336-smallest-number-in-infinite-set) |
@@ -260,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jp7107/leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -268,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jp7107/leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -337,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/jp7107/leetcode-solving/tree/master/0705-design-hashset) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/jp7107/leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
