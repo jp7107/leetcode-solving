@@ -2,10 +2,10 @@ class Solution {
 public:
     bool wordPattern(string pattern, string s) {
         vector<string> words;
-        stringstream ss(s);
+        stringstream s_example(s);
         string token;
 
-        while (ss >> token) {
+        while (s_example >> token) {
             words.push_back(token);
         }
 
