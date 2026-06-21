@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jp7107/leetcode-solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jp7107/leetcode-solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jp7107/leetcode-solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/jp7107/leetcode-solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1861-rotating-the-box](https://github.com/jp7107/leetcode-solving/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/1914-cyclically-rotating-a-grid) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jp7107/leetcode-solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/jp7107/leetcode-solving/tree/master/1657-determine-if-two-strings-are-close) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jp7107/leetcode-solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/jp7107/leetcode-solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/jp7107/leetcode-solving/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jp7107/leetcode-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/jp7107/leetcode-solving/tree/master/1833-maximum-ice-cream-bars) |
 ## Simulation
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jp7107/leetcode-solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jp7107/leetcode-solving/tree/master/0055-jump-game) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jp7107/leetcode-solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/jp7107/leetcode-solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/jp7107/leetcode-solving/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jp7107/leetcode-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
