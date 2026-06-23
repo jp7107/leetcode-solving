@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jp7107/leetcode-solving/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jp7107/leetcode-solving/tree/master/0100-same-tree) |
 | [1306-jump-game-iii](https://github.com/jp7107/leetcode-solving/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/jp7107/leetcode-solving/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -389,12 +391,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jp7107/leetcode-solving/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/jp7107/leetcode-solving/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
