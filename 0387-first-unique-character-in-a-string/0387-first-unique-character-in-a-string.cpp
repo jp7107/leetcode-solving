@@ -10,6 +10,7 @@ public:
         }
 
         // Second Pass: Find the first index pointing to an element with a frequency count of 1
+        //and
         for(int i = 0; i < s.size(); i++) {
             if(freq[s[i] - 'a'] == 1) {
                 return i;
