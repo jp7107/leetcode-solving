@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jp7107/leetcode-solving/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jp7107/leetcode-solving/tree/master/0572-subtree-of-another-tree) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jp7107/leetcode-solving/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jp7107/leetcode-solving/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jp7107/leetcode-solving/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jp7107/leetcode-solving/tree/master/0572-subtree-of-another-tree) |
 ## Queue
