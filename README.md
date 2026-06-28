@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jp7107/leetcode-solving/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/jp7107/leetcode-solving/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/jp7107/leetcode-solving/tree/master/0049-group-anagrams) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jp7107/leetcode-solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jp7107/leetcode-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jp7107/leetcode-solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/jp7107/leetcode-solving/tree/master/0049-group-anagrams) |
