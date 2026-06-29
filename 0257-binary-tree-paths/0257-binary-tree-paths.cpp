@@ -9,53 +9,33 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-// class Solution {
-// public:
-
-//     vector<string> binaryTreePaths(TreeNode* root) {
-//         vector<string> rootToLeaf;
-
-//         if (root == NULL) return rootToLeaf;
-
-//         vector<string> left = binaryTreePaths(root->left);   // returns vector<string>, not string
-
-//         // ❌ Wrong:
-//         // string pathL = to_string(left->data) + "->";
-//         // left is a vector<string>, so it has no member 'data'.
-
-//         vector<string> right = binaryTreePaths(root->right); // returns vector<string>, not string
-
-//         // ❌ Wrong:
-//         // string pathR = to_string(right->data) + "->";
-//         // right is a vector<string>, so it has no member 'data'.
-
-//         return rootToLeaf;
-//     }
-// };
 class Solution {
 public:
+    void allPaths(TreeNode* root, string path, vector<string>& ans) {
+        if (root->left == NULL && root->right == NULL) {
+            ans.push_back(path);
+            return;
+        }
+
+        if (root->left) {
+            allPaths(root->left, path + "->" + to_string(root->left->val), ans);
+        }
+
+        if (root->right) {
+            allPaths(root->right, path + "->" + to_string(root->right->val), ans);
+        }
+    }
+
     vector<string> binaryTreePaths(TreeNode* root) {
-        vector<string> rootToLeaf;
+        vector<string> ans;
 
         if (root == NULL)
-            return rootToLeaf;
+            return ans;
 
-        // Leaf node
-        if (root->left == NULL && root->right == NULL) {
-            rootToLeaf.push_back(to_string(root->val));
-            return rootToLeaf;
-        }
+        string path = to_string(root->val);
 
-        vector<string> leftPaths = binaryTreePaths(root->left);
-        for (string path : leftPaths) {
-            rootToLeaf.push_back(to_string(root->val) + "->" + path);
-        }
+        allPaths(root, path, ans);
 
-        vector<string> rightPaths = binaryTreePaths(root->right);
-        for (string path : rightPaths) {
-            rootToLeaf.push_back(to_string(root->val) + "->" + path);
-        }
-
-        return rootToLeaf;
+        return ans;
     }
 };
