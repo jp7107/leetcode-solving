@@ -8,20 +8,19 @@ public:
 
             if (nums[mid] == target)
                 return mid;
-
-            if (nums[left] <= nums[mid]) { 
+            if (nums[left] <= nums[mid]) { // Check which half is sorted
+                // Left half is sorted
                 if (nums[left] <= target && target < nums[mid]) {
-                    right = mid - 1;  
+                    right = mid - 1;  // target in left half
                 } else {
-                    left = mid + 1;  
+                    left = mid + 1;   // target in right half
                 }
-
             } else {
-               
+                // Right half is sorted
                 if (nums[mid] < target && target <= nums[right]) {
-                    left = mid + 1;   
+                    left = mid + 1;   // target in right half
                 } else {
-                    right = mid - 1;  
+                    right = mid - 1;  // target in left half
                 }
             }
         }
