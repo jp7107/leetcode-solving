@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jp7107/leetcode-solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jp7107/leetcode-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/jp7107/leetcode-solving/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/jp7107/leetcode-solving/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/jp7107/leetcode-solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jp7107/leetcode-solving/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/jp7107/leetcode-solving/tree/master/0257-binary-tree-paths) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/jp7107/leetcode-solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jp7107/leetcode-solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/jp7107/leetcode-solving/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/jp7107/leetcode-solving/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/jp7107/leetcode-solving/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/jp7107/leetcode-solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/jp7107/leetcode-solving/tree/master/0258-add-digits) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jp7107/leetcode-solving/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/jp7107/leetcode-solving/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/jp7107/leetcode-solving/tree/master/0844-backspace-string-compare) |
 | [1914-cyclically-rotating-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/1914-cyclically-rotating-a-grid) |
