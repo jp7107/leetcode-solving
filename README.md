@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jp7107/leetcode-solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jp7107/leetcode-solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/jp7107/leetcode-solving/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/jp7107/leetcode-solving/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/jp7107/leetcode-solving/tree/master/0049-group-anagrams) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jp7107/leetcode-solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jp7107/leetcode-solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/jp7107/leetcode-solving/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/jp7107/leetcode-solving/tree/master/0061-rotate-list) |
 | [0392-is-subsequence](https://github.com/jp7107/leetcode-solving/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jp7107/leetcode-solving/tree/master/0557-reverse-words-in-a-string-iii) |
