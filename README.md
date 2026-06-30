@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jp7107/leetcode-solving/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jp7107/leetcode-solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jp7107/leetcode-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/jp7107/leetcode-solving/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/jp7107/leetcode-solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jp7107/leetcode-solving/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/jp7107/leetcode-solving/tree/master/0257-binary-tree-paths) |
