@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jp7107/leetcode-solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/jp7107/leetcode-solving/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/jp7107/leetcode-solving/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/jp7107/leetcode-solving/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/jp7107/leetcode-solving/tree/master/0049-group-anagrams) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jp7107/leetcode-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/jp7107/leetcode-solving/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/jp7107/leetcode-solving/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jp7107/leetcode-solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/jp7107/leetcode-solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/jp7107/leetcode-solving/tree/master/0242-valid-anagram) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/jp7107/leetcode-solving/tree/master/0014-longest-common-prefix) |
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jp7107/leetcode-solving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/jp7107/leetcode-solving/tree/master/3093-longest-common-suffix-queries) |
