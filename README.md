@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/jp7107/leetcode-solving/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/jp7107/leetcode-solving/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/jp7107/leetcode-solving/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/jp7107/leetcode-solving/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/jp7107/leetcode-solving/tree/master/0055-jump-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/jp7107/leetcode-solving/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jp7107/leetcode-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/jp7107/leetcode-solving/tree/master/0374-guess-number-higher-or-lower) |
