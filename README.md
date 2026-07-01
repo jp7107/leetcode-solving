@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jp7107/leetcode-solving/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/jp7107/leetcode-solving/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/jp7107/leetcode-solving/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/jp7107/leetcode-solving/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/jp7107/leetcode-solving/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/jp7107/leetcode-solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/jp7107/leetcode-solving/tree/master/0258-add-digits) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jp7107/leetcode-solving/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/jp7107/leetcode-solving/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/jp7107/leetcode-solving/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
