@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jp7107/leetcode-solving/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/jp7107/leetcode-solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jp7107/leetcode-solving/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/jp7107/leetcode-solving/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jp7107/leetcode-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jp7107/leetcode-solving/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/jp7107/leetcode-solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jp7107/leetcode-solving/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/jp7107/leetcode-solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/jp7107/leetcode-solving/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/jp7107/leetcode-solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/jp7107/leetcode-solving/tree/master/0258-add-digits) |
