@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jp7107/leetcode-solving/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/jp7107/leetcode-solving/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jp7107/leetcode-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/jp7107/leetcode-solving/tree/master/0374-guess-number-higher-or-lower) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jp7107/leetcode-solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jp7107/leetcode-solving/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jp7107/leetcode-solving/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/jp7107/leetcode-solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jp7107/leetcode-solving/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/jp7107/leetcode-solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/jp7107/leetcode-solving/tree/master/0258-add-digits) |
