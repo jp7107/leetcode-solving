@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jp7107/leetcode-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jp7107/leetcode-solving/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/jp7107/leetcode-solving/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jp7107/leetcode-solving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/jp7107/leetcode-solving/tree/master/3093-longest-common-suffix-queries) |
 | [3151-special-array-i](https://github.com/jp7107/leetcode-solving/tree/master/3151-special-array-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2187-minimum-time-to-complete-trips](https://github.com/jp7107/leetcode-solving/tree/master/2187-minimum-time-to-complete-trips) |
 | [2540-minimum-common-value](https://github.com/jp7107/leetcode-solving/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/jp7107/leetcode-solving/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jp7107/leetcode-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jp7107/leetcode-solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/jp7107/leetcode-solving/tree/master/2336-smallest-number-in-infinite-set) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -320,17 +323,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/jp7107/leetcode-solving/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/jp7107/leetcode-solving/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jp7107/leetcode-solving/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/jp7107/leetcode-solving/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/1914-cyclically-rotating-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
