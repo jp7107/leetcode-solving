@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jp7107/leetcode-solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jp7107/leetcode-solving/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/jp7107/leetcode-solving/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/jp7107/leetcode-solving/tree/master/0068-text-justification) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jp7107/leetcode-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/jp7107/leetcode-solving/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/jp7107/leetcode-solving/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/jp7107/leetcode-solving/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/jp7107/leetcode-solving/tree/master/0068-text-justification) |
 | [0242-valid-anagram](https://github.com/jp7107/leetcode-solving/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/jp7107/leetcode-solving/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/jp7107/leetcode-solving/tree/master/0290-word-pattern) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/jp7107/leetcode-solving/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/jp7107/leetcode-solving/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/jp7107/leetcode-solving/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/jp7107/leetcode-solving/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/jp7107/leetcode-solving/tree/master/0844-backspace-string-compare) |
 | [1914-cyclically-rotating-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/1914-cyclically-rotating-a-grid) |
