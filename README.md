@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/jp7107/leetcode-solving/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/jp7107/leetcode-solving/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/jp7107/leetcode-solving/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/jp7107/leetcode-solving/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jp7107/leetcode-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jp7107/leetcode-solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jp7107/leetcode-solving/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/jp7107/leetcode-solving/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jp7107/leetcode-solving/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/jp7107/leetcode-solving/tree/master/0374-guess-number-higher-or-lower) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/jp7107/leetcode-solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jp7107/leetcode-solving/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/jp7107/leetcode-solving/tree/master/0074-search-a-2d-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/jp7107/leetcode-solving/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/1914-cyclically-rotating-a-grid) |
