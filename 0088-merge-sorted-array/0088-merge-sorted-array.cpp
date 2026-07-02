@@ -13,7 +13,7 @@ public:
         //     nums1.push_back(x);
         // }
         // Copy back result into nums1
-        for(int i = 0; i < m+n; i++){
+        for(int i = 0; i < v.size(); i++){
             nums1[i] = v[i];
         }
         sort(nums1.begin(),nums1.end());
