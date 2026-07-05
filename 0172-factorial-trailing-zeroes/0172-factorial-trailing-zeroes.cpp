@@ -7,6 +7,6 @@ public:
             n /= 5;
             cnt += n;
         }
-    return cnt;
+        return cnt;
     }
 };
