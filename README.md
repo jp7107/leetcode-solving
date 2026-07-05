@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jp7107/leetcode-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/jp7107/leetcode-solving/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/jp7107/leetcode-solving/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/jp7107/leetcode-solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/jp7107/leetcode-solving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jp7107/leetcode-solving/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/jp7107/leetcode-solving/tree/master/0242-valid-anagram) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jp7107/leetcode-solving/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/jp7107/leetcode-solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/jp7107/leetcode-solving/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/jp7107/leetcode-solving/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/jp7107/leetcode-solving/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/jp7107/leetcode-solving/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/jp7107/leetcode-solving/tree/master/0509-fibonacci-number) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/jp7107/leetcode-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jp7107/leetcode-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jp7107/leetcode-solving/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/jp7107/leetcode-solving/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/jp7107/leetcode-solving/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jp7107/leetcode-solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
