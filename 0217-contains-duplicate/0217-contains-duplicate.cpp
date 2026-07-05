@@ -6,7 +6,7 @@ public:
             mp[x]++;
         }
         for(auto x : mp){
-            if(x.second >1){
+            if(x.second >=2){
                 return true;
             }
         }
