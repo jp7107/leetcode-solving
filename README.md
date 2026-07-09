@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/jp7107/leetcode-solving/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jp7107/leetcode-solving/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jp7107/leetcode-solving/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jp7107/leetcode-solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/jp7107/leetcode-solving/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jp7107/leetcode-solving/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jp7107/leetcode-solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jp7107/leetcode-solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/jp7107/leetcode-solving/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/jp7107/leetcode-solving/tree/master/2574-left-and-right-sum-differences) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jp7107/leetcode-solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
