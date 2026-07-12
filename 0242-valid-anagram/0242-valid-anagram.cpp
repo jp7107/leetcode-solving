@@ -5,24 +5,18 @@ public:
     bool isAnagram(string s, string t) {
         if (s.length() != t.length()) return false;
 
-        // int arr[26] = {0};
-        // //best example of hash store table 
-        // //do thats similar types of hashing methods with string and array both 
-        // for (int i = 0 ; i<s.length(); i++){
+        int arr[26] = {0};
+        //best example of hash store table 
+        //do thats similar types of hashing methods with string and array both 
+        for (int i = 0 ; i<s.length(); i++){
 
-        //     arr[s[i]-'a'] += 1;
-        //     arr[t[i] - 'a'] -= 1;
-        // }
-
-        // for (int check : arr){
-        //     if (check != 0) return false;
-        // }
-        // return true;
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        if(s==t){
-            return true;
+            arr[s[i]-'a'] += 1;
+            arr[t[i] - 'a'] -= 1;
         }
-            return false;
+
+        for (int check : arr){
+            if (check != 0) return false;
+        }
+        return true;
     }
 };
