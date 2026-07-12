@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/jp7107/leetcode-solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jp7107/leetcode-solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/jp7107/leetcode-solving/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jp7107/leetcode-solving/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/jp7107/leetcode-solving/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/jp7107/leetcode-solving/tree/master/0396-rotate-function) |
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jp7107/leetcode-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jp7107/leetcode-solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/jp7107/leetcode-solving/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jp7107/leetcode-solving/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/jp7107/leetcode-solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/jp7107/leetcode-solving/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jp7107/leetcode-solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/jp7107/leetcode-solving/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/jp7107/leetcode-solving/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/jp7107/leetcode-solving/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/jp7107/leetcode-solving/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jp7107/leetcode-solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/jp7107/leetcode-solving/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/jp7107/leetcode-solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jp7107/leetcode-solving/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jp7107/leetcode-solving/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/jp7107/leetcode-solving/tree/master/0389-find-the-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jp7107/leetcode-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jp7107/leetcode-solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
