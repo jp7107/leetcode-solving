@@ -10,6 +10,6 @@ public:
             }
         }
 
-        return cnt == s.length() ?true:false;
+        return cnt == s.length();
     }
 };
