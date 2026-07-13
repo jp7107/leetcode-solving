@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/jp7107/leetcode-solving/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jp7107/leetcode-solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jp7107/leetcode-solving/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jp7107/leetcode-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/jp7107/leetcode-solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jp7107/leetcode-solving/tree/master/0706-design-hashmap) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jp7107/leetcode-solving/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0472-concatenated-words](https://github.com/jp7107/leetcode-solving/tree/master/0472-concatenated-words) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jp7107/leetcode-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/jp7107/leetcode-solving/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/jp7107/leetcode-solving/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/jp7107/leetcode-solving/tree/master/1288-remove-covered-intervals) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/jp7107/leetcode-solving/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/jp7107/leetcode-solving/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/jp7107/leetcode-solving/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jp7107/leetcode-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/jp7107/leetcode-solving/tree/master/0788-rotated-digits) |
 | [0908-smallest-range-i](https://github.com/jp7107/leetcode-solving/tree/master/0908-smallest-range-i) |
 | [1512-number-of-good-pairs](https://github.com/jp7107/leetcode-solving/tree/master/1512-number-of-good-pairs) |
