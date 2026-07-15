@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jp7107/leetcode-solving/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/jp7107/leetcode-solving/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/jp7107/leetcode-solving/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/jp7107/leetcode-solving/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/jp7107/leetcode-solving/tree/master/0880-decoded-string-at-index) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/jp7107/leetcode-solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/jp7107/leetcode-solving/tree/master/0944-delete-columns-to-make-sorted) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jp7107/leetcode-solving/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/jp7107/leetcode-solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jp7107/leetcode-solving/tree/master/0706-design-hashmap) |
+| [0859-buddy-strings](https://github.com/jp7107/leetcode-solving/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/jp7107/leetcode-solving/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/jp7107/leetcode-solving/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/jp7107/leetcode-solving/tree/master/1207-unique-number-of-occurrences) |
