@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jp7107/leetcode-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/jp7107/leetcode-solving/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jp7107/leetcode-solving/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jp7107/leetcode-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jp7107/leetcode-solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jp7107/leetcode-solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jp7107/leetcode-solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/jp7107/leetcode-solving/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jp7107/leetcode-solving/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jp7107/leetcode-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
