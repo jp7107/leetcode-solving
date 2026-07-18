@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jp7107/leetcode-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1871-jump-game-vii](https://github.com/jp7107/leetcode-solving/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/jp7107/leetcode-solving/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/jp7107/leetcode-solving/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jp7107/leetcode-solving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/jp7107/leetcode-solving/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jp7107/leetcode-solving/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/jp7107/leetcode-solving/tree/master/0880-decoded-string-at-index) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jp7107/leetcode-solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/jp7107/leetcode-solving/tree/master/1544-make-the-string-great) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/jp7107/leetcode-solving/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Counting
 |  |
 | ------- |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/jp7107/leetcode-solving/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/jp7107/leetcode-solving/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/jp7107/leetcode-solving/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/jp7107/leetcode-solving/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1914-cyclically-rotating-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jp7107/leetcode-solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jp7107/leetcode-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
