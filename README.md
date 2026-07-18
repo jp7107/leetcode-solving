@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jp7107/leetcode-solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/jp7107/leetcode-solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/jp7107/leetcode-solving/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/jp7107/leetcode-solving/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jp7107/leetcode-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
