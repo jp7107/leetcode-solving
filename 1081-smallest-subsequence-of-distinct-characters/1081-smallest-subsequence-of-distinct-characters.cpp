@@ -1,23 +1,26 @@
 class Solution {
 public:
     string smallestSubsequence(string s) {
+
+        int last[26] = {}, visited[26] = {}, n = s.size();
         string res = "";
-        int last[26] = {}, seen[26] = {}, n = s.size();
 
 
-        for (int i = 0; i < n; ++i){
+        for (int i =0; i<n; i++){
             last[s[i] - 'a'] = i;
         }
 
-        for (int i = 0; i < n; ++i) {
-            if (seen[s[i] - 'a']++) continue;
+        for (int i =0; i<n; i++){
 
-        while (!res.empty() && res.back() > s[i] && i < last[res.back() - 'a']){
+            if (visited[s[i] - 'a']++) continue;
 
-            seen[res.back() - 'a'] = 0, res.pop_back();
-        }
+            while (!res.empty() && res.back() > s[i] && i < last[res.back() - 'a']){
+
+                visited[res.back() - 'a'] = 0, res.pop_back();
+            }
             res.push_back(s[i]);
         }
+        
         return res;
     }
 };
