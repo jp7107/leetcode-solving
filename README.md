@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jp7107/leetcode-solving/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jp7107/leetcode-solving/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/jp7107/leetcode-solving/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jp7107/leetcode-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/jp7107/leetcode-solving/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jp7107/leetcode-solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jp7107/leetcode-solving/tree/master/2574-left-and-right-sum-differences) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/jp7107/leetcode-solving/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2272-substring-with-largest-variance](https://github.com/jp7107/leetcode-solving/tree/master/2272-substring-with-largest-variance) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jp7107/leetcode-solving/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jp7107/leetcode-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jp7107/leetcode-solving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/jp7107/leetcode-solving/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jp7107/leetcode-solving/tree/master/3120-count-the-number-of-special-characters-i) |
