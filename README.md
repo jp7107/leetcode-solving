@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2272-substring-with-largest-variance](https://github.com/jp7107/leetcode-solving/tree/master/2272-substring-with-largest-variance) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jp7107/leetcode-solving/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jp7107/leetcode-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/jp7107/leetcode-solving/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jp7107/leetcode-solving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/jp7107/leetcode-solving/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jp7107/leetcode-solving/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/jp7107/leetcode-solving/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/jp7107/leetcode-solving/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/jp7107/leetcode-solving/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2833-furthest-point-from-origin](https://github.com/jp7107/leetcode-solving/tree/master/2833-furthest-point-from-origin) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/jp7107/leetcode-solving/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
