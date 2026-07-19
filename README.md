@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/jp7107/leetcode-solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jp7107/leetcode-solving/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jp7107/leetcode-solving/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2463-minimum-total-distance-traveled](https://github.com/jp7107/leetcode-solving/tree/master/2463-minimum-total-distance-traveled) |
 | [2540-minimum-common-value](https://github.com/jp7107/leetcode-solving/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jp7107/leetcode-solving/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/jp7107/leetcode-solving/tree/master/2574-left-and-right-sum-differences) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jp7107/leetcode-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/jp7107/leetcode-solving/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jp7107/leetcode-solving/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2463-minimum-total-distance-traveled](https://github.com/jp7107/leetcode-solving/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/jp7107/leetcode-solving/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jp7107/leetcode-solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jp7107/leetcode-solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/jp7107/leetcode-solving/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/jp7107/leetcode-solving/tree/master/1871-jump-game-vii) |
 | [2272-substring-with-largest-variance](https://github.com/jp7107/leetcode-solving/tree/master/2272-substring-with-largest-variance) |
+| [2463-minimum-total-distance-traveled](https://github.com/jp7107/leetcode-solving/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jp7107/leetcode-solving/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jp7107/leetcode-solving/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jp7107/leetcode-solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
