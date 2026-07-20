@@ -712,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/jp7107/leetcode-solving/tree/master/2336-smallest-number-in-infinite-set) |
+| [3161-block-placement-queries](https://github.com/jp7107/leetcode-solving/tree/master/3161-block-placement-queries) |
 ## Hash Function
 |  |
 | ------- |
