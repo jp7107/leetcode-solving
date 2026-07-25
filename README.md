@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jp7107/leetcode-solving/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jp7107/leetcode-solving/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jp7107/leetcode-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/jp7107/leetcode-solving/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jp7107/leetcode-solving/tree/master/0112-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jp7107/leetcode-solving/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1306-jump-game-iii](https://github.com/jp7107/leetcode-solving/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/jp7107/leetcode-solving/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jp7107/leetcode-solving/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jp7107/leetcode-solving/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jp7107/leetcode-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jp7107/leetcode-solving/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jp7107/leetcode-solving/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jp7107/leetcode-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Queue
 |  |
@@ -817,4 +821,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/jp7107/leetcode-solving/tree/master/0098-validate-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/jp7107/leetcode-solving/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
