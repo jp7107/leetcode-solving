@@ -11,18 +11,22 @@
  */
 class Solution {
 public:
-    void preOrderTraversal(TreeNode* root, vector<int> &v){
+    void solve(TreeNode* root, int &cnt, int &ans, int k){
         if(root == NULL)    return;
-        
-        //root, left, right 
-        v.push_back(root->val);
-        preOrderTraversal(root->left, v);
-        preOrderTraversal(root->right, v);      
+        //left, root, right 
+        solve(root->left, cnt, ans, k);
+        cnt++;
+        if(cnt == k){
+            ans = root->val;
+            return;
+        }
+        solve(root->right, cnt, ans, k);
     }
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> v; 
-        preOrderTraversal(root, v);
-        sort(v.begin(), v.end());
-        return v[k-1];
+        
+        int cnt = 0;        
+        int ans;
+        solve(root, cnt, ans, k);
+        return ans;
     }
 };
