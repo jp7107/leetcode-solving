@@ -9,45 +9,51 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+// class Solution {
+// public:
+//    int getMax(TreeNode* root) {
+//         while(root->right != nullptr) {
+//             root = root->right;
+//         }
+//         return root->val;
+//     }
+//     int getMin(TreeNode* root) {
+//         while(root->left != nullptr) {
+//             root = root->left;
+//         }
+//         return root->val;
+//     }
+//     int minDiffInBST(TreeNode* root) {
+//         if(root == nullptr)
+//             return INT_MAX;
+
+//         int lowestNumber = INT_MAX;
+
+//         if(root->left != nullptr) {
+//             lowestNumber = min(lowestNumber, root->val - getMax(root->left));
+//         }
+
+//         if(root->right != nullptr) {
+//             lowestNumber = min(lowestNumber, getMin(root->right) - root->val);
+//         }
+
+//         int L = minDiffInBST(root->left);
+//         int R = minDiffInBST(root->right);
+
+//         lowestNumber = min(lowestNumber, L);
+//         lowestNumber = min(lowestNumber, R);
+
+//         return lowestNumber;
+//     }
+// };
 class Solution {
-public:
-
-    int getMax(TreeNode* root) {
-        while(root->right != nullptr) {
-            root = root->right;
-        }
-        return root->val;
-    }
-
-    int getMin(TreeNode* root) {
-        while(root->left != nullptr) {
-            root = root->left;
-        }
-        return root->val;
-    }
-
+  public:
+    int res = INT_MAX, pre = -1;
     int minDiffInBST(TreeNode* root) {
-        if(root == nullptr)
-            return INT_MAX;
-
-        int lowestNumber = INT_MAX;
-
-        if(root->left != nullptr) {
-            lowestNumber = min(lowestNumber,
-                               root->val - getMax(root->left));
-        }
-
-        if(root->right != nullptr) {
-            lowestNumber = min(lowestNumber,
-                               getMin(root->right) - root->val);
-        }
-
-        int L = minDiffInBST(root->left);
-        int R = minDiffInBST(root->right);
-
-        lowestNumber = min(lowestNumber, L);
-        lowestNumber = min(lowestNumber, R);
-
-        return lowestNumber;
+        if (root->left != NULL) minDiffInBST(root->left);
+        if (pre >= 0) res = min(res, root->val - pre);
+        pre = root->val;
+        if (root->right != NULL) minDiffInBST(root->right);
+        return res;
     }
 };
