@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/jp7107/leetcode-solving/tree/master/3660-jump-game-ix) |
 | [3731-find-missing-elements](https://github.com/jp7107/leetcode-solving/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/jp7107/leetcode-solving/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3745-maximize-expression-of-three-elements](https://github.com/jp7107/leetcode-solving/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jp7107/leetcode-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jp7107/leetcode-solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/jp7107/leetcode-solving/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/jp7107/leetcode-solving/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3745-maximize-expression-of-three-elements](https://github.com/jp7107/leetcode-solving/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jp7107/leetcode-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Interactive
 |  |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jp7107/leetcode-solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jp7107/leetcode-solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/jp7107/leetcode-solving/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3745-maximize-expression-of-three-elements](https://github.com/jp7107/leetcode-solving/tree/master/3745-maximize-expression-of-three-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/jp7107/leetcode-solving/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/jp7107/leetcode-solving/tree/master/1291-sequential-digits) |
 | [2272-substring-with-largest-variance](https://github.com/jp7107/leetcode-solving/tree/master/2272-substring-with-largest-variance) |
+| [3745-maximize-expression-of-three-elements](https://github.com/jp7107/leetcode-solving/tree/master/3745-maximize-expression-of-three-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
