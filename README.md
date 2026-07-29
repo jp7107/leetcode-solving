@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jp7107/leetcode-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/jp7107/leetcode-solving/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/jp7107/leetcode-solving/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/jp7107/leetcode-solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jp7107/leetcode-solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jp7107/leetcode-solving/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jp7107/leetcode-solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jp7107/leetcode-solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/jp7107/leetcode-solving/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/jp7107/leetcode-solving/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/jp7107/leetcode-solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/jp7107/leetcode-solving/tree/master/1291-sequential-digits) |
 | [2272-substring-with-largest-variance](https://github.com/jp7107/leetcode-solving/tree/master/2272-substring-with-largest-variance) |
 | [3745-maximize-expression-of-three-elements](https://github.com/jp7107/leetcode-solving/tree/master/3745-maximize-expression-of-three-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/jp7107/leetcode-solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Stack
 |  |
 | ------- |
