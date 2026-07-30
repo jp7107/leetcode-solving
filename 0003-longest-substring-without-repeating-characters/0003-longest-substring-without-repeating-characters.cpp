@@ -5,11 +5,12 @@ public:
         int maxLength = 0;
         vector<int> lastIndex(128, 0);
         
-        for (int start = 0, end = 0; end < n; end++) {
-            char currentChar = s[end];
-            start = max(start, lastIndex[currentChar]);
-            maxLength = max(maxLength, end - start + 1);
-            lastIndex[currentChar] = end + 1;
+        int j =0;
+        for (int i = 0; i < n; i++) {
+            char currentChar = s[i];
+            j = max(j, lastIndex[currentChar]);
+            maxLength = max(maxLength, i - j + 1);
+            lastIndex[currentChar] = i + 1;
         }
         
         return maxLength;
