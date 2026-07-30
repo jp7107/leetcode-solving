@@ -1,26 +1,17 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int n = s.size();
-        int maxi= 0;//we can use INT_MIN instead of 0 for managing neagative number 
+        int n = s.length();
+        int maxLength = 0;
+        vector<int> lastIndex(128, 0);
         
-        for(int i=0; i<n; i++){
-            int cnt = 0;
-            unordered_map<char, int > hakla;
-
-            for(int j=i; j<n; j++){
-                //store inside hakla map
-                hakla[s[j]]++;
-                //check the condition
-                if(hakla[s[j]] > 1)
-                break;
-
-                cnt++;
-                maxi= max(maxi, cnt);
-            }
-
-
+        for (int start = 0, end = 0; end < n; end++) {
+            char currentChar = s[end];
+            start = max(start, lastIndex[currentChar]);
+            maxLength = max(maxLength, end - start + 1);
+            lastIndex[currentChar] = end + 1;
         }
-        return maxi;
-    }  
+        
+        return maxLength;
+    }
 };
