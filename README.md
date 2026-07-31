@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/jp7107/leetcode-solving/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jp7107/leetcode-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/jp7107/leetcode-solving/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jp7107/leetcode-solving/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/jp7107/leetcode-solving/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/jp7107/leetcode-solving/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/jp7107/leetcode-solving/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jp7107/leetcode-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jp7107/leetcode-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Queue
 |  |
 | ------- |
