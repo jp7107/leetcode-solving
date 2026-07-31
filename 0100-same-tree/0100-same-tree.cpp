@@ -11,15 +11,16 @@
  */
 class Solution {
 public:
-    //T.C = O(size of tree) -> O(n)
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        if(p == NULL || q == NULL) {
-            return p == q; //false  return always
-        }
 
-        bool isLeftSame = isSameTree(p->left, q->left);
-        bool isRightSame = isSameTree(p->right, q->right);
+        if(p == NULL && q == NULL)
+            return true;
 
-        return isLeftSame && isRightSame && p->val == q->val;
+        if(p == NULL || q == NULL)
+            return false;
+
+        return p->val == q->val &&
+               isSameTree(p->left, q->left) &&
+               isSameTree(p->right, q->right);
     }
 };
