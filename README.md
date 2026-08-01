@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jp7107/leetcode-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/jp7107/leetcode-solving/tree/master/1306-jump-game-iii) |
+| [1361-validate-binary-tree-nodes](https://github.com/jp7107/leetcode-solving/tree/master/1361-validate-binary-tree-nodes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jp7107/leetcode-solving/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jp7107/leetcode-solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/jp7107/leetcode-solving/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/jp7107/leetcode-solving/tree/master/1345-jump-game-iv) |
+| [1361-validate-binary-tree-nodes](https://github.com/jp7107/leetcode-solving/tree/master/1361-validate-binary-tree-nodes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jp7107/leetcode-solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/jp7107/leetcode-solving/tree/master/2685-count-the-number-of-complete-components) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jp7107/leetcode-solving/tree/master/0128-longest-consecutive-sequence) |
+| [1361-validate-binary-tree-nodes](https://github.com/jp7107/leetcode-solving/tree/master/1361-validate-binary-tree-nodes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jp7107/leetcode-solving/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jp7107/leetcode-solving/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jp7107/leetcode-solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -809,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jp7107/leetcode-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/jp7107/leetcode-solving/tree/master/1361-validate-binary-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -837,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jp7107/leetcode-solving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/jp7107/leetcode-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/jp7107/leetcode-solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/jp7107/leetcode-solving/tree/master/1361-validate-binary-tree-nodes) |
 ## Queue
 |  |
 | ------- |
@@ -844,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/jp7107/leetcode-solving/tree/master/1361-validate-binary-tree-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jp7107/leetcode-solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/jp7107/leetcode-solving/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jp7107/leetcode-solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
