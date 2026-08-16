@@ -8,6 +8,7 @@ public:
             n /= 10;
         }
         return ans;
+        
     }
     int smallestNumber(int n, int t) {
         
