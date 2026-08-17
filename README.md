@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jp7107/leetcode-solving/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jp7107/leetcode-solving/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jp7107/leetcode-solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/jp7107/leetcode-solving/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/jp7107/leetcode-solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/jp7107/leetcode-solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jp7107/leetcode-solving/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/jp7107/leetcode-solving/tree/master/0899-orderly-queue) |
 | [0908-smallest-range-i](https://github.com/jp7107/leetcode-solving/tree/master/0908-smallest-range-i) |
 | [1512-number-of-good-pairs](https://github.com/jp7107/leetcode-solving/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/jp7107/leetcode-solving/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/jp7107/leetcode-solving/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jp7107/leetcode-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jp7107/leetcode-solving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
