@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/jp7107/leetcode-solving/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/jp7107/leetcode-solving/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/jp7107/leetcode-solving/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/jp7107/leetcode-solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2272-substring-with-largest-variance](https://github.com/jp7107/leetcode-solving/tree/master/2272-substring-with-largest-variance) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jp7107/leetcode-solving/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jp7107/leetcode-solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jp7107/leetcode-solving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/jp7107/leetcode-solving/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jp7107/leetcode-solving/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/jp7107/leetcode-solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jp7107/leetcode-solving/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jp7107/leetcode-solving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/jp7107/leetcode-solving/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/jp7107/leetcode-solving/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/jp7107/leetcode-solving/tree/master/1291-sequential-digits) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/jp7107/leetcode-solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2272-substring-with-largest-variance](https://github.com/jp7107/leetcode-solving/tree/master/2272-substring-with-largest-variance) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jp7107/leetcode-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/jp7107/leetcode-solving/tree/master/3745-maximize-expression-of-three-elements) |
